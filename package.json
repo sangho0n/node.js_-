@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "censorify": "file:censorify\\censorify-0.1.1.tgz",
+    "express": "^4.17.1"
+  }
+}
